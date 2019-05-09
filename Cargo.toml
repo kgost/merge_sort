@@ -1,0 +1,9 @@
+[package]
+name = "merge_sort"
+version = "0.1.0"
+authors = ["John Bland <john.bland@24g.com>"]
+edition = "2018"
+
+[dependencies]
+rand = "0.6"
+num_cpus = "0.2"
